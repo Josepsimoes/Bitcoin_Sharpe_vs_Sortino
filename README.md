@@ -6,10 +6,12 @@ Foco no tipo de risco:
 
 O Índice de Sharpe mede o retorno ajustado ao risco de um investimento, levando em consideração todo o risco (volatilidade) associado ao investimento.
 O Índice de Sortino, por outro lado, concentra-se especificamente no risco negativo ou desvio abaixo do objetivo (geralmente definido como a taxa livre de risco), ignorando a volatilidade positiva.
+
 Fórmula:
 
 O Índice de Sharpe é calculado dividindo o retorno do investimento menos o retorno livre de risco pela volatilidade do investimento.
 O Índice de Sortino é calculado dividindo o retorno do investimento menos o retorno livre de risco pelo desvio abaixo do objetivo.
+
 Interpretação:
 
 O Índice de Sharpe fornece uma medida do retorno por unidade de risco total, incluindo tanto o risco positivo quanto o negativo.

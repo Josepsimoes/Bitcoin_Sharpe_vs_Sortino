@@ -17,4 +17,6 @@ Interpretação:
 O Índice de Sharpe fornece uma medida do retorno por unidade de risco total, incluindo tanto o risco positivo quanto o negativo.
 O Índice de Sortino se concentra apenas no risco negativo, fornecendo uma medida mais específica do retorno ajustado ao risco para investidores preocupados principalmente com a proteção contra perdas.
 
-Resumo: enquanto o Índice de Sharpe avalia o retorno ajustado ao risco total, o Índice de Sortino se concentra especificamente em avaliar o retorno ajustado ao risco negativo, sendo mais relevante para investidores que buscam proteção contra perdas.
+Resumo:
+
+Enquanto o Índice de Sharpe avalia o retorno ajustado ao risco total, o Índice de Sortino se concentra especificamente em avaliar o retorno ajustado ao risco negativo, sendo mais relevante para investidores que buscam proteção contra perdas.
